@@ -3,7 +3,7 @@
 This R script calculates the **number of generations** in pedigree data for livestock or other animals. It is designed for users with **no prior programming experience**, and includes both an example dataset and instructions for using your own data from Excel or CSV files.
 
 ---
-### Author: ** Hamdy Abdel-Shafy **  
+### Author: **Hamdy Abdel-Shafy**  
 ### Date: July 2025  
 ### Affiliation: Department of Animal Production, Cairo University, Faculty of Agriculture
 ---
