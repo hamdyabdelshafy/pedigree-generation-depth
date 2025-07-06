@@ -5,7 +5,7 @@ This R script calculates the **number of generations** in pedigree data for live
 ---
 ### Author: **Hamdy Abdel-Shafy**  
 ### Date: July 2025  
-### Affiliation: Department of Animal Production, Cairo University, Faculty of Agriculture
+### Affiliation: Department of Animal Production, Faculty of Agriculture, Cairo University
 ---
 
 ## 📦 Requirements
